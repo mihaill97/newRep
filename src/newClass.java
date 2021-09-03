@@ -1,5 +1,5 @@
 public class newClass {
-    public void (){
+    public void     (){
 
 
     }
