@@ -25,5 +25,6 @@ public class JavaCalculator {
         }
         System.out.print("В результате вычисления получаем :");
         System.out.print(""+answ);
+
     }
 }
