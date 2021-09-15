@@ -11,7 +11,7 @@ public class StringOperations {
         name = input.nextLine();
 
         System.out.println(hi + name);
-        System.out.println("You are in : " + 2021 +" year ");
+        System.out.println("You are in : " + 2021 +"");
         System.out.println("You result is : " + (2 + 3));
 
 
