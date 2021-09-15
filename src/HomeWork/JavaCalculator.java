@@ -1,4 +1,4 @@
-package stepIT.practice1;
+package HomeWork;
 import java.util.Scanner;
 
 public class JavaCalculator {
