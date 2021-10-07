@@ -17,7 +17,7 @@ public class LengthWord {
 
     static public void main(String args[])
     {
-        String somestring="one two three four fiveee";
+        String somestring="one two three four five";
         String maxword = max(somestring);
         System.out.println(maxword);
         System.out.println(maxword.length());
